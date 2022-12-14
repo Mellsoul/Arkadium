@@ -1,0 +1,19 @@
+﻿  game.cpp
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(179,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(180,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(202,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(203,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(318,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(318,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(352,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(352,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(415,37): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(428,37): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(440,37): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(451,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(461,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(500,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(501,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(506,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mellsoul\source\repos\Gamingtest\test\game.cpp(507,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Gamingtest.vcxproj -> C:\Users\Mellsoul\source\repos\Gamingtest\x64\Debug\Gamingtest.exe

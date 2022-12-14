@@ -1,0 +1,5 @@
+﻿  game.cpp
+game.obj : error LNK2019: unresolved external symbol "void __cdecl drawTestBackground(void)" (?drawTestBackground@@YAXXZ) referenced in function "public: virtual bool __thiscall MyFramework::Tick(void)" (?Tick@MyFramework@@UAE_NXZ)
+game.obj : error LNK2019: unresolved external symbol "int __cdecl run(class Framework *)" (?run@@YAHPAVFramework@@@Z) referenced in function _main
+test\FrameworkRelease_x64.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Mellsoul\source\repos\Gamingtest\Debug\Gamingtest.exe : fatal error LNK1120: 2 unresolved externals
